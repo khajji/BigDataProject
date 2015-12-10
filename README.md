@@ -15,7 +15,7 @@ We call this distribution a feature vector.
 In a second step, Submetrics acts as recommender system. Based on a TV-show you like, it recommends you shows that have the most similar features. Handy, right ? 
 The distribution over the topics, that is the so called features, are obtained by a Java M/R implementation of the LDA algorithm. Here is the current version of the graph representing clusters of similar shows and some labelled topics we identified in them : 
 
-Shows Clusters
+![alt tag](http://www.submetrics.org/img/showsclusters.jpg)
 
 The goal of the project is to analyze the content of TV-Shows according to certain topics, via a subtitles analysis. In order to achieve that, we acquired a large data set of subtitles of good quality (~1100 shows) and then, using an hadoop implementation of the LDA algorithm, analyze the topics present in each show.
 As a result, we have differents things :
