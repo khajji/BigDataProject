@@ -2,7 +2,7 @@ BigDataProject
 ==============
 
 Submetrics is a TV-Shows content-based recommender system ! What does that mean ?
-Well, in a first step this tool analyzes subtitles of hundreds of TV-shows according to certain topics. Based on this analysis, it produces for each TV-show a distribution over the topics. For example, if we consider the show Homeland, the resulting distribution is :
+In a first step this tool analyzes subtitles of hundreds of TV-shows according to certain topics. Based on this analysis, it produces for each TV-show a distribution over the topics. For example, if we consider the show Homeland, the resulting distribution is :
 
 44% (Counter)-terrorism
 12% Politics
